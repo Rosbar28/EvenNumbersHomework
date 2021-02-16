@@ -28,6 +28,9 @@ public class EvenNumbersHomework {
             if(numbs % 2 == 0 && numbs != 0 )
                 
             { 
+               //Prints the even numbers found
+               System.out.println("The " + numbs + " is an even number" );
+            } 
 
         }
          
