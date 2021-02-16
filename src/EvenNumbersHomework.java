@@ -20,6 +20,12 @@ public class EvenNumbersHomework {
          //Creates a variable named numbs
         int numbs;
         
+        // Creates a loop to create the count of the numbers from 0 to 100
+        for(numbs= 0; numbs<=100; numbs++){
+            
+        }
+         
+
          
     }
     
